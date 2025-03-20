@@ -1,0 +1,9 @@
+[
+    {
+        "title": "Millionaire in one sec",
+        "author": "mohit",
+        "year": "2025",
+        "genre": "mystery",
+        "read": true
+    }
+]
